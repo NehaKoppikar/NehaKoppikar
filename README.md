@@ -23,6 +23,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [My experience at MLH Local Hack Day: Build](https://dev.to/nehakoppikar/my-experience-at-mlh-local-hack-day-build-55p7)
+- [Understanding MLH and what Local Hack Day: Build is about](https://dev.to/nehakoppikar/understanding-mlh-and-local-hack-day-build-is-about-3f1b)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
