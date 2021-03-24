@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Neha Koppikar</h1>
-<h3 align="center">A highly motivated data professional and a life time data science student</h3>
+<h3 align="center">A highly motivated individual and a data science student for life!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehakoppikar&label=Profile%20views&color=0e75b6&style=flat" alt="nehakoppikar" /> </p>
 
