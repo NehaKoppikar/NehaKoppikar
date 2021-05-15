@@ -7,15 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/koppikar_neha" target="blank"><img src="https://img.shields.io/twitter/follow/koppikar_neha?logo=twitter&style=for-the-badge" alt="koppikar_neha" /></a> </p>
 
-- 🔭 I’m currently working on [College Capstone Project](https://github.com/NehaKoppikar/Sem8_Capstone)
+- 🔭 I’m currently working as a Business Analyst at Quantiphi
 
 - 🌱 I’m currently learning **Julia**
 
-- 👨‍💻 All of my projects are available at [http://nehakoppikar.github.io/](http://nehakoppikar.github.io/)
-
-- 📝 I regularly write articles on [http://nehakoppikar.github.io/blog](http://nehakoppikar.github.io/blog)
-
-- 💬 Ask me about **Python, Machine Learning and AWS**
+- 💬 Ask me about **Python, Machine Learning and AWS/GCP**
 
 - 📫 How to reach me **neha.koppikar@gmail.com**
 
