@@ -17,6 +17,12 @@
 
 - ⚡ Fun fact **I get excited way too much for a wide range of things!**
 
+### Project Spotlight
+- [Security System for Housing Societies using Deep Learning and IoT](https://github.com/NehaKoppikar/Security-System-for-Housing-Societies-using-Deep-Learning-and-IoT)
+- [Analyzing Cloud Computing Platforms](https://github.com/NehaKoppikar/AnalyzingCloudComputingPlatforms/blob/main/Analyzing_Cloud_Platforms.ipynb)
+- [Sentiment Analysis on COVID-19 Tweets](https://github.com/NehaKoppikar/Leverage_Sentiment_Analysis)
+
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [My experience at MLH Local Hack Day: Build](https://dev.to/nehakoppikar/my-experience-at-mlh-local-hack-day-build-55p7)
