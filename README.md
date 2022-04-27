@@ -18,6 +18,7 @@
 - ⚡ Fun fact **I get excited way too much for a wide range of things!**
 
 ### Project Spotlight
+- [Topic Modelling on News Articles](https://github.com/NehaKoppikar/Topic_Modelling_on_News_Articles)
 - [Security System for Housing Societies using Deep Learning and IoT](https://github.com/NehaKoppikar/Security-System-for-Housing-Societies-using-Deep-Learning-and-IoT)
 - [Analyzing Cloud Computing Platforms](https://github.com/NehaKoppikar/AnalyzingCloudComputingPlatforms/blob/main/Analyzing_Cloud_Platforms.ipynb)
 - [Sentiment Analysis on COVID-19 Tweets](https://github.com/NehaKoppikar/Leverage_Sentiment_Analysis)
