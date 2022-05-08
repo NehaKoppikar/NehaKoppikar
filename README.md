@@ -23,6 +23,9 @@
 - [Analyzing Cloud Computing Platforms](https://github.com/NehaKoppikar/AnalyzingCloudComputingPlatforms/blob/main/Analyzing_Cloud_Platforms.ipynb)
 - [Sentiment Analysis on COVID-19 Tweets](https://github.com/NehaKoppikar/Leverage_Sentiment_Analysis)
 
+### Publications
+- [vRecruit: An Automated Smart Recruitment Webapp using Machine Learning](https://ieeexplore.ieee.org/document/9744135)
+
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
