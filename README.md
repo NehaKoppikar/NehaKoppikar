@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/koppikar_neha" target="blank"><img src="https://img.shields.io/twitter/follow/koppikar_neha?logo=twitter&style=for-the-badge" alt="koppikar_neha" /></a> </p>
 
-- 🔭 I’m currently working as a Freelancer in the AI/ML space for the Healthcare and Life Science domain and the Finance Domain. I am also looking for a right fit in the US being a US citizen.
-
-- 🌱 I’m currently learning **Julia**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Python, Machine Learning and AWS/GCP**
 
