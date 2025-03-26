@@ -6,7 +6,6 @@ I'm a Data Engineer passionate about building scalable data pipelines, optimizin
 ## 💡 What I Work On
 - **Data Engineering**: ETL pipelines, data transformations, and cloud-based solutions
 - **Machine Learning & AI**: Applied AI, AI agents, and automation
-- **Full-Stack Development**: Building and optimizing Next.js apps
 - **Cloud & DevOps**: Google Cloud (GCP), CI/CD, and Compute Engine deployments
 
 ## 🛠️ Tech Stack
