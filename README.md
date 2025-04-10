@@ -20,9 +20,9 @@ I'm a Data Engineer passionate about building scalable data pipelines, optimizin
 
 
 ## 📫 Connect With Me
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/neha-koppikar/)
-- **X**: [Your GitHub Profile](https://x.com/koppikar_neha)
-- **Email**: [Your Email](neha.koppikar@gmail.com)
+- [**LinkedIn**](https://www.linkedin.com/in/neha-koppikar/)
+- [**X**](https://x.com/koppikar_neha)
+
 
 🚀 Open to collaborations on **AI, Data Engineering, and Cloud** projects!
 
