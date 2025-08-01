@@ -14,9 +14,8 @@ I'm a Data Engineer passionate about building scalable data pipelines, optimizin
 - **Cloud Platforms**: Google Cloud Platform (GCP), Microsoft Azure, Amazon Web Services (AWS)
 - **Certifications**: GCP Associate Cloud Engineer, AI-900, DP-900, DP-600
 
-## 🌍 Current Goals
-- Learn AI Agents
-- Preparing for the **DP-700** certification exam
+## 🌍 Current Leanring Goals
+- [Agent Development Kit](https://google.github.io/adk-docs/)
 
 
 ## 📫 Connect With Me
