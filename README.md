@@ -9,7 +9,7 @@ I'm a Data Engineer passionate about building scalable data pipelines, optimizin
 - **Cloud & DevOps**: Google Cloud (GCP), CI/CD, and Compute Engine deployments
 
 ## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript
+- **Languages**: Python, R, JavaScript, Julia
 - **Databases**: MySQL, PostgreSQL, MS SQL, Supabase
 - **Cloud Platforms**: Google Cloud Platform (GCP), Microsoft Azure, Amazon Web Services (AWS)
 - **Certifications**: GCP Associate Cloud Engineer, AI-900, DP-900, DP-600, DP-700
