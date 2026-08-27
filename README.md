@@ -12,10 +12,10 @@ I'm a Data Engineer passionate about building scalable data pipelines, optimizin
 - **Languages**: Python, R, JavaScript, Julia
 - **Databases**: MySQL, PostgreSQL, MS SQL, Supabase
 - **Cloud Platforms**: Google Cloud Platform (GCP), Microsoft Azure, Amazon Web Services (AWS)
-- **Certifications**: GCP Associate Cloud Engineer, AI-900, DP-900, DP-600, DP-700
+- **Certifications**: GCP Associate Cloud Engineer, AI-900, DP-900, DP-600, DP-700, AI-102, Palantir Data Engineer
 
-## 🌍 Current Leanring Goals
-- [Agent Development Kit](https://google.github.io/adk-docs/)
+## 🌍 Current Learning Goals
+[CS 6601: Artificial Intelligence](https://omscs.gatech.edu/cs-6601-artificial-intelligence)
 
 
 ## 📫 Connect With Me
